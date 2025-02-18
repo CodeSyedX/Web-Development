@@ -1,0 +1,2 @@
+A="HELLOWORLD"
+print (A)
